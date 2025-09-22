@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly skilled DevOps Engineer with over 1 years of experience in designing, implementing, and managing robust, scalable, and secure infrastructures. Proficient in leveraging a wide range of DevOps tools and practices to streamline development processes, enhance system reliability, and accelerate delivery cycles. Adept at continuous integration/continuous deployment (CI/CD) pipelines, infrastructure as code (IaC), containerization, and cloud services management.
+Highly skilled DevOps Engineer with over 2+ years of experience in designing, implementing, and managing robust, scalable, and secure infrastructures. Proficient in leveraging a wide range of DevOps tools and practices to streamline development processes, enhance system reliability, and accelerate delivery cycles. Adept at continuous integration/continuous deployment (CI/CD) pipelines, infrastructure as code (IaC), containerization, and cloud services management.
 
 
 ## 🌐 Socials:
